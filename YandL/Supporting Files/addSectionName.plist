@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>显示分割线</string>
+		<key>key</key>
+		<string>showMargin</string>
+		<key>subtitle</key>
+		<string>显示</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>显示副标题</string>
+		<key>key</key>
+		<string>showSubtitle</string>
+		<key>subtitle</key>
+		<string>显示</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>高度</string>
+		<key>key</key>
+		<string>sectionHeight</string>
+		<key>keyboard</key>
+		<string>number</string>
+		<key>place</key>
+		<string>此Section的高度</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>下部距离</string>
+		<key>key</key>
+		<string>margin</string>
+		<key>keyboard</key>
+		<string>number</string>
+		<key>place</key>
+		<string>与下一个Section间的距离</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>背景色</string>
+		<key>key</key>
+		<string>backgroundColor</string>
+		<key>place</key>
+		<string>clear</string>
+	</dict>
+</array>
+</plist>
